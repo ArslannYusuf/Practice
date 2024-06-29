@@ -1,0 +1,10 @@
+.std-cards{
+
+    margin: 5rem auto;
+    flex-wrap: wrap;
+    gap: 2rem;
+
+    img{
+        object-fit: cover;
+    }
+}
